@@ -20,7 +20,7 @@ This sample illustrates how to use two-legged authentication.
 ## Prerequisites
 
 1. A Forge account: [Getting Started with Forge](https://forge.autodesk.com/developer/getting-started)
-2. A text editor (We recommend http://brackets.io/ or https://atom.io/, it's up to you.)
+2. A text editor of your choice. (For example Brackets or Visual Studio Code are good choices.)
 3. A basic knowledge of :
     - HTML and CSS
     - JavaScript ES6
