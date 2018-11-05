@@ -1,4 +1,4 @@
-# Photo to 3D (photogrammetry) sample
+# Two-Legged Authentication sample
 
 [![Node.js](https://img.shields.io/badge/Node.js-8.11.1-blue.svg)](https://nodejs.org/)
 [![npm](https://img.shields.io/badge/npm-6.1.0-blue.svg)](https://www.npmjs.com/)
