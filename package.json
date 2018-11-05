@@ -1,0 +1,26 @@
+{
+  "name": "oauth-walkthrough-2.legged.auth",
+  "version": "2.0.0",
+  "description": "Code sample for the Forge OAuth API",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "keywords": [
+    "OAuth",
+    "Node.js",
+    "REST",
+    "2-legged",
+    "authentication"
+  ],
+  "author": "Autodesk (www.autodesk.com)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "eslint": "^5.0.1"
+  }
+}
